@@ -1,5 +1,5 @@
 import { SparklesIcon } from "@heroicons/react/outline";
-// import Input from "./Input";
+import Input from "./Input";
 
 function Feed() {
   return (
@@ -11,7 +11,7 @@ function Feed() {
         </div>
       </div>
 
-      {/* <Input /> */}
+      <Input />
       <div className="pb-72">
         <p>sss</p>
       </div>
