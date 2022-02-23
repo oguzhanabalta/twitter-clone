@@ -1,1 +1,1 @@
-twitter-clone-oguzhanbalta.vercel.app
+demo: https://twitter-clone-oguzhanbalta.vercel.app/
